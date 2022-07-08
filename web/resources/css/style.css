@@ -1,0 +1,17 @@
+
+body{
+    background: #252733;
+    color:#f9f9f9;
+}
+
+body{
+    background-image: url("https://www.diplareios.edu.gr/wp-content/uploads/2018/06/blackboard.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:yellow !important;
+    padding-top:5%;
+}
+
+body select{
+    color:black !important;
+}
